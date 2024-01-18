@@ -1,0 +1,2052 @@
+{
+    "data": [
+        {
+            "name": "L7J",
+            "detail": "Acton, ON"
+        },
+        {
+            "name": "G8M",
+            "detail": "Albanel, QC"
+        },
+        {
+            "name": "B1Y",
+            "detail": "Alder Point, NS"
+        },
+        {
+            "name": "E8L",
+            "detail": "Allardville, NB"
+        },
+        {
+            "name": "L9R",
+            "detail": "Alliston, ON"
+        },
+        {
+            "name": "B4H",
+            "detail": "Amherst, NS"
+        },
+        {
+            "name": "N9V",
+            "detail": "Amherstburg, ON"
+        },
+        {
+            "name": "J9T",
+            "detail": "Amos, QC"
+        },
+        {
+            "name": "G5J",
+            "detail": "Amqui, QC"
+        },
+        {
+            "name": "B2G",
+            "detail": "Antigonish, NS"
+        },
+        {
+            "name": "E5P",
+            "detail": "Apohaqui, NB"
+        },
+        {
+            "name": "G0R",
+            "detail": "Appalaches, QC"
+        },
+        {
+            "name": "K7S",
+            "detail": "Arnprior, ON"
+        },
+        {
+            "name": "J1T",
+            "detail": "Asbestos, QC"
+        },
+        {
+            "name": "T9S",
+            "detail": "Athabasca, AB"
+        },
+        {
+            "name": "L4G",
+            "detail": "Aurora, ON"
+        },
+        {
+            "name": "N5H",
+            "detail": "Aylmer, ON"
+        },
+        {
+            "name": "N3A",
+            "detail": "Baden, ON"
+        },
+        {
+            "name": "G3Z",
+            "detail": "Baie-Saint-Paul, QC"
+        },
+        {
+            "name": "E9A",
+            "detail": "Baie-Sainte-Anne, NB"
+        },
+        {
+            "name": "E7A",
+            "detail": "Baker Brook, NB"
+        },
+        {
+            "name": "E8E",
+            "detail": "Balmoral, NB"
+        },
+        {
+            "name": "T1L",
+            "detail": "Banff, AB"
+        },
+        {
+            "name": "T7N",
+            "detail": "Barrhead, AB"
+        },
+        {
+            "name": "E4T",
+            "detail": "Bass River, NB"
+        },
+        {
+            "name": "E7J",
+            "detail": "Bath, NB"
+        },
+        {
+            "name": "E2A",
+            "detail": "Bathurst, NB"
+        },
+        {
+            "name": "E4M",
+            "detail": "Bayfield, NB"
+        },
+        {
+            "name": "H9W",
+            "detail": "Beaconsfield, QC"
+        },
+        {
+            "name": "G5X",
+            "detail": "Beauceville, QC"
+        },
+        {
+            "name": "J6N",
+            "detail": "Beauharnois, QC"
+        },
+        {
+            "name": "T4X",
+            "detail": "Beaumont, AB"
+        },
+        {
+            "name": "G9H",
+            "detail": "Becancour, QC"
+        },
+        {
+            "name": "E8G",
+            "detail": "Belledune, NB"
+        },
+        {
+            "name": "K8R",
+            "detail": "Belleville, ON"
+        },
+        {
+            "name": "E8K",
+            "detail": "Beresford, NB"
+        },
+        {
+            "name": "B1X",
+            "detail": "Big Bras d'Or, NS"
+        },
+        {
+            "name": "G6H",
+            "detail": "Black Lake, QC"
+        },
+        {
+            "name": "E9B",
+            "detail": "Blackville, NB"
+        },
+        {
+            "name": "E6A",
+            "detail": "Boiestown, NB"
+        },
+        {
+            "name": "J0G",
+            "detail": "Bois-Francs-Nord, QC"
+        },
+        {
+            "name": "J0H",
+            "detail": "Bois-Francs-Sud, QC"
+        },
+        {
+            "name": "L7E",
+            "detail": "Bolton, ON"
+        },
+        {
+            "name": "T9N",
+            "detail": "Bonnyville, AB"
+        },
+        {
+            "name": "J4B",
+            "detail": "Boucherville, QC"
+        },
+        {
+            "name": "E4S",
+            "detail": "Bouctouche, NB"
+        },
+        {
+            "name": "P1L",
+            "detail": "Bracebridge, ON"
+        },
+        {
+            "name": "L3Z",
+            "detail": "Bradford, ON"
+        },
+        {
+            "name": "E9H",
+            "detail": "Brantville, NB"
+        },
+        {
+            "name": "B4V",
+            "detail": "Bridgewater, NS"
+        },
+        {
+            "name": "K6V",
+            "detail": "Brockville, ON"
+        },
+        {
+            "name": "J2L",
+            "detail": "Bromont, QC"
+        },
+        {
+            "name": "T1R",
+            "detail": "Brooks, AB"
+        },
+        {
+            "name": "N0H",
+            "detail": "Bruce Peninsula, ON"
+        },
+        {
+            "name": "J8L",
+            "detail": "Buckingham, QC"
+        },
+        {
+            "name": "S2V",
+            "detail": "Buena Vista, SK"
+        },
+        {
+            "name": "A0E",
+            "detail": "Burin Peninsula, LB"
+        },
+        {
+            "name": "V3N",
+            "detail": "Burnaby, BC"
+        },
+        {
+            "name": "E6L",
+            "detail": "Burtts Corner, NB"
+        },
+        {
+            "name": "L7C",
+            "detail": "Caledon, ON"
+        },
+        {
+            "name": "N3W",
+            "detail": "Caledonia, ON"
+        },
+        {
+            "name": "T1Y",
+            "detail": "Calgary, AB"
+        },
+        {
+            "name": "E3N",
+            "detail": "Campbellton, NB"
+        },
+        {
+            "name": "E5E",
+            "detail": "Campobello Island, NB"
+        },
+        {
+            "name": "T4V",
+            "detail": "Camrose, AB"
+        },
+        {
+            "name": "T1W",
+            "detail": "Canmore, AB"
+        },
+        {
+            "name": "E6H",
+            "detail": "Canterbury, NB"
+        },
+        {
+            "name": "G0B",
+            "detail": "Cap-aux-Meules, QC"
+        },
+        {
+            "name": "E4N",
+            "detail": "Cap-Pelé, NB"
+        },
+        {
+            "name": "G1Y",
+            "detail": "Cap-Rouge, QC"
+        },
+        {
+            "name": "G0A",
+            "detail": "Capitale-Nationale, QC"
+        },
+        {
+            "name": "E1W",
+            "detail": "Caraquet, NB"
+        },
+        {
+            "name": "A1Y",
+            "detail": "Carbonear, LB"
+        },
+        {
+            "name": "K7C",
+            "detail": "Carleton Place, ON"
+        },
+        {
+            "name": "R4K",
+            "detail": "Cartier, MB"
+        },
+        {
+            "name": "V1N",
+            "detail": "Castlegar, BC"
+        },
+        {
+            "name": "V9X",
+            "detail": "Cedar, BC"
+        },
+        {
+            "name": "E7K",
+            "detail": "Centreville, NB"
+        },
+        {
+            "name": "J3L",
+            "detail": "Chambly, QC"
+        },
+        {
+            "name": "G6X",
+            "detail": "Charny, QC"
+        },
+        {
+            "name": "J8G",
+            "detail": "Chatham, QC"
+        },
+        {
+            "name": "G0S",
+            "detail": "Chaudière-Nord, QC"
+        },
+        {
+            "name": "G0N",
+            "detail": "Chaudière-Sud, QC"
+        },
+        {
+            "name": "J9B",
+            "detail": "Chelsea, QC"
+        },
+        {
+            "name": "T1X",
+            "detail": "Chestermere, AB"
+        },
+        {
+            "name": "G8P",
+            "detail": "Chibougamau, QC"
+        },
+        {
+            "name": "V0L",
+            "detail": "Chilcotin, BC"
+        },
+        {
+            "name": "B1T",
+            "detail": "Christmas Island, NS"
+        },
+        {
+            "name": "A5A",
+            "detail": "Clarenville, LB"
+        },
+        {
+            "name": "G4A",
+            "detail": "Clermont, QC"
+        },
+        {
+            "name": "T1M",
+            "detail": "Coaldale, AB"
+        },
+        {
+            "name": "J1A",
+            "detail": "Coaticook, QC"
+        },
+        {
+            "name": "K9A",
+            "detail": "Cobourg, ON"
+        },
+        {
+            "name": "E4R",
+            "detail": "Cocagne, NB"
+        },
+        {
+            "name": "T4C",
+            "detail": "Cochrane, AB"
+        },
+        {
+            "name": "T9M",
+            "detail": "Cold Lake, AB"
+        },
+        {
+            "name": "B4R",
+            "detail": "Coldbrook, NS"
+        },
+        {
+            "name": "L9Y",
+            "detail": "Collingwood, ON"
+        },
+        {
+            "name": "V9M",
+            "detail": "Comox, BC"
+        },
+        {
+            "name": "A1X",
+            "detail": "Conception Bay, LB"
+        },
+        {
+            "name": "L4K",
+            "detail": "Concord, ON"
+        },
+        {
+            "name": "A2H",
+            "detail": "Corner Brook, LB"
+        },
+        {
+            "name": "L1E",
+            "detail": "Courtice, ON"
+        },
+        {
+            "name": "E1J",
+            "detail": "Coverdale, NB"
+        },
+        {
+            "name": "J2K",
+            "detail": "Cowansville, QC"
+        },
+        {
+            "name": "V1C",
+            "detail": "Cranbrook, BC"
+        },
+        {
+            "name": "K4C",
+            "detail": "Cumberland, ON"
+        },
+        {
+            "name": "E8C",
+            "detail": "Dalhousie, NB"
+        },
+        {
+            "name": "R7N",
+            "detail": "Dauphin, MB"
+        },
+        {
+            "name": "V1G",
+            "detail": "Dawson Creek, BC"
+        },
+        {
+            "name": "E7N",
+            "detail": "Debec, NB"
+        },
+        {
+            "name": "E5V",
+            "detail": "Deer Island, NB"
+        },
+        {
+            "name": "A8A",
+            "detail": "Deer Lake, LB"
+        },
+        {
+            "name": "G5T",
+            "detail": "Degelis, QC"
+        },
+        {
+            "name": "N4B",
+            "detail": "Delhi, ON"
+        },
+        {
+            "name": "J5B",
+            "detail": "Delson, QC"
+        },
+        {
+            "name": "T9G",
+            "detail": "Devon, AB"
+        },
+        {
+            "name": "B0V",
+            "detail": "Digby Neck, NS"
+        },
+        {
+            "name": "E9C",
+            "detail": "Doaktown, NB"
+        },
+        {
+            "name": "B1G",
+            "detail": "Dominion, NS"
+        },
+        {
+            "name": "G3M",
+            "detail": "Donnacona, QC"
+        },
+        {
+            "name": "E4K",
+            "detail": "Dorchester, NB"
+        },
+        {
+            "name": "H9P",
+            "detail": "Dorval Outskirts, QC"
+        },
+        {
+            "name": "M4W",
+            "detail": "Downtown Toronto, ON"
+        },
+        {
+            "name": "T7A",
+            "detail": "Drayton Valley, AB"
+        },
+        {
+            "name": "P8N",
+            "detail": "Dryden, ON"
+        },
+        {
+            "name": "L0N",
+            "detail": "Dufferin County, ON"
+        },
+        {
+            "name": "V9L",
+            "detail": "Duncan, BC"
+        },
+        {
+            "name": "L9H",
+            "detail": "Dundas, ON"
+        },
+        {
+            "name": "N1A",
+            "detail": "Dunnville, ON"
+        },
+        {
+            "name": "E6C",
+            "detail": "Durham Bridge, NB"
+        },
+        {
+            "name": "H7E",
+            "detail": "Duvernay, QC"
+        },
+        {
+            "name": "H7A",
+            "detail": "Duvernay-Est, QC"
+        },
+        {
+            "name": "T5A",
+            "detail": "Edmonton, AB"
+        },
+        {
+            "name": "E3V",
+            "detail": "Edmundston, NB"
+        },
+        {
+            "name": "T7E",
+            "detail": "Edson, AB"
+        },
+        {
+            "name": "N0L",
+            "detail": "Elgin, ON"
+        },
+        {
+            "name": "K6T",
+            "detail": "Elizabethtown, ON"
+        },
+        {
+            "name": "P5A",
+            "detail": "Elliot Lake, ON"
+        },
+        {
+            "name": "N3B",
+            "detail": "Elmira, ON"
+        },
+        {
+            "name": "B2T",
+            "detail": "Enfield, NS"
+        },
+        {
+            "name": "B1W",
+            "detail": "Eskasoni, NS"
+        },
+        {
+            "name": "P5E",
+            "detail": "Espanola, ON"
+        },
+        {
+            "name": "V9A",
+            "detail": "Esquimalt, BC"
+        },
+        {
+            "name": "N0R",
+            "detail": "Essex, ON"
+        },
+        {
+            "name": "S4A",
+            "detail": "Estevan, SK"
+        },
+        {
+            "name": "J0B",
+            "detail": "Estrie-Est, QC"
+        },
+        {
+            "name": "J0E",
+            "detail": "Estrie-Ouest, QC"
+        },
+        {
+            "name": "M8V",
+            "detail": "Etobicoke, ON"
+        },
+        {
+            "name": "H7P",
+            "detail": "Fabreville, QC"
+        },
+        {
+            "name": "J2N",
+            "detail": "Farnham, QC"
+        },
+        {
+            "name": "N1M",
+            "detail": "Fergus, ON"
+        },
+        {
+            "name": "R8A",
+            "detail": "Flin Flon, MB"
+        },
+        {
+            "name": "E7L",
+            "detail": "Florenceville, NB"
+        },
+        {
+            "name": "L2A",
+            "detail": "Fort Erie, ON"
+        },
+        {
+            "name": "P9A",
+            "detail": "Fort Frances, ON"
+        },
+        {
+            "name": "T8L",
+            "detail": "Fort Saskatchewan, AB"
+        },
+        {
+            "name": "V1J",
+            "detail": "Fort St. John, BC"
+        },
+        {
+            "name": "B2J",
+            "detail": "Fourchu, NS"
+        },
+        {
+            "name": "E5M",
+            "detail": "Gagetown, NB"
+        },
+        {
+            "name": "K7G",
+            "detail": "Gananoque, ON"
+        },
+        {
+            "name": "A1V",
+            "detail": "Gander, LB"
+        },
+        {
+            "name": "G4X",
+            "detail": "Gaspé, QC"
+        },
+        {
+            "name": "G0E",
+            "detail": "Gaspésie-Nord, QC"
+        },
+        {
+            "name": "G0J",
+            "detail": "Gaspésie-Ouest, QC"
+        },
+        {
+            "name": "G0C",
+            "detail": "Gaspésie-Sud, QC"
+        },
+        {
+            "name": "L7G",
+            "detail": "Georgetown, ON"
+        },
+        {
+            "name": "B1A",
+            "detail": "Glace Bay, NS"
+        },
+        {
+            "name": "K1B",
+            "detail": "Gloucester, ON"
+        },
+        {
+            "name": "N7A",
+            "detail": "Goderich, ON"
+        },
+        {
+            "name": "A1S",
+            "detail": "Goulds, LB"
+        },
+        {
+            "name": "A2A",
+            "detail": "Grand Falls, LB"
+        },
+        {
+            "name": "E5G",
+            "detail": "Grand Manan Island, NB"
+        },
+        {
+            "name": "G9T",
+            "detail": "Grand-Mère, QC"
+        },
+        {
+            "name": "E8N",
+            "detail": "Grande-Anse, NB"
+        },
+        {
+            "name": "P1P",
+            "detail": "Gravenhurst, ON"
+        },
+        {
+            "name": "P3A",
+            "detail": "Greater Sudbury, ON"
+        },
+        {
+            "name": "K4P",
+            "detail": "Greely, ON"
+        },
+        {
+            "name": "J4V",
+            "detail": "Greenfield Park, QC"
+        },
+        {
+            "name": "H3C",
+            "detail": "Griffintown, QC"
+        },
+        {
+            "name": "L3M",
+            "detail": "Grimsby, ON"
+        },
+        {
+            "name": "L8E",
+            "detail": "Hamilton, ON"
+        },
+        {
+            "name": "H3X",
+            "detail": "Hampstead, QC"
+        },
+        {
+            "name": "E5N",
+            "detail": "Hampton, NB"
+        },
+        {
+            "name": "N4N",
+            "detail": "Hanover, ON"
+        },
+        {
+            "name": "B0N",
+            "detail": "Hants County, NS"
+        },
+        {
+            "name": "B3V",
+            "detail": "Harrietsfield, NS"
+        },
+        {
+            "name": "E7P",
+            "detail": "Hartland, NB"
+        },
+        {
+            "name": "E6K",
+            "detail": "Harvey, NB"
+        },
+        {
+            "name": "K6A",
+            "detail": "Hawkesbury, ON"
+        },
+        {
+            "name": "T1V",
+            "detail": "High River, AB"
+        },
+        {
+            "name": "V9B",
+            "detail": "Highlands, BC"
+        },
+        {
+            "name": "E4H",
+            "detail": "Hillsborough, NB"
+        },
+        {
+            "name": "T7V",
+            "detail": "Hinton, AB"
+        },
+        {
+            "name": "H1W",
+            "detail": "Hochelaga, QC"
+        },
+        {
+            "name": "L9N",
+            "detail": "Holland Landing, ON"
+        },
+        {
+            "name": "P1H",
+            "detail": "Huntsville, ON"
+        },
+        {
+            "name": "N0G",
+            "detail": "Huron, ON"
+        },
+        {
+            "name": "G8N",
+            "detail": "Hébertville, QC"
+        },
+        {
+            "name": "N5C",
+            "detail": "Ingersoll, ON"
+        },
+        {
+            "name": "E8P",
+            "detail": "Inkerman, NB"
+        },
+        {
+            "name": "X0C",
+            "detail": "Inner Nunavut, NU"
+        },
+        {
+            "name": "T4G",
+            "detail": "Innisfail, AB"
+        },
+        {
+            "name": "L9S",
+            "detail": "Innisfil, ON"
+        },
+        {
+            "name": "B2C",
+            "detail": "Iona, NS"
+        },
+        {
+            "name": "J6E",
+            "detail": "Joliette, QC"
+        },
+        {
+            "name": "V0S",
+            "detail": "Juan de Fuca Shore, BC"
+        },
+        {
+            "name": "T0L",
+            "detail": "Kananaskis Country, AB"
+        },
+        {
+            "name": "K2K",
+            "detail": "Kanata, ON"
+        },
+        {
+            "name": "P5N",
+            "detail": "Kapuskasing, ON"
+        },
+        {
+            "name": "E8B",
+            "detail": "Kedgwick, NB"
+        },
+        {
+            "name": "P9N",
+            "detail": "Kenora, ON"
+        },
+        {
+            "name": "N0P",
+            "detail": "Kent, ON"
+        },
+        {
+            "name": "B4N",
+            "detail": "Kentville, NS"
+        },
+        {
+            "name": "L4P",
+            "detail": "Keswick, ON"
+        },
+        {
+            "name": "V1A",
+            "detail": "Kimberley, BC"
+        },
+        {
+            "name": "N2Z",
+            "detail": "Kincardine, ON"
+        },
+        {
+            "name": "L7B",
+            "detail": "King City, ON"
+        },
+        {
+            "name": "B0P",
+            "detail": "Kings County, NS"
+        },
+        {
+            "name": "E3E",
+            "detail": "Kingsclear, NB"
+        },
+        {
+            "name": "E5S",
+            "detail": "Kingston, NB"
+        },
+        {
+            "name": "K7K",
+            "detail": "Kingston, ON"
+        },
+        {
+            "name": "N9Y",
+            "detail": "Kingsville, ON"
+        },
+        {
+            "name": "P2N",
+            "detail": "Kirkland Lake, ON"
+        },
+        {
+            "name": "H9J",
+            "detail": "Kirkland, QC"
+        },
+        {
+            "name": "V8C",
+            "detail": "Kitimat, BC"
+        },
+        {
+            "name": "J5W",
+            "detail": "L'Assomption, QC"
+        },
+        {
+            "name": "G0Y",
+            "detail": "L'Erable, QC"
+        },
+        {
+            "name": "J5X",
+            "detail": "L'Épiphanie, QC"
+        },
+        {
+            "name": "H3E",
+            "detail": "L'Île-Des-Soeurs, QC"
+        },
+        {
+            "name": "H9S",
+            "detail": "L'Île-Dorval, QC"
+        },
+        {
+            "name": "G7B",
+            "detail": "La Baie, QC"
+        },
+        {
+            "name": "G5A",
+            "detail": "La Malbaie, QC"
+        },
+        {
+            "name": "J7M",
+            "detail": "La Plaine, QC"
+        },
+        {
+            "name": "J5R",
+            "detail": "La Prairie, QC"
+        },
+        {
+            "name": "J9Z",
+            "detail": "La Sarre, QC"
+        },
+        {
+            "name": "G9X",
+            "detail": "La Tuque, QC"
+        },
+        {
+            "name": "A2V",
+            "detail": "Labrador City, LB"
+        },
+        {
+            "name": "G6B",
+            "detail": "Lac-Megantic, QC"
+        },
+        {
+            "name": "G3G",
+            "detail": "Lac-Saint-Charles, QC"
+        },
+        {
+            "name": "J8H",
+            "detail": "Lachute, QC"
+        },
+        {
+            "name": "T4L",
+            "detail": "Lacombe, AB"
+        },
+        {
+            "name": "V9G",
+            "detail": "Ladysmith, BC"
+        },
+        {
+            "name": "B3T",
+            "detail": "Lakeside, NS"
+        },
+        {
+            "name": "N0N",
+            "detail": "Lambton, ON"
+        },
+        {
+            "name": "E8T",
+            "detail": "Lamèque, NB"
+        },
+        {
+            "name": "J0K",
+            "detail": "Lanaudière-Nord, QC"
+        },
+        {
+            "name": "J0R",
+            "detail": "Lanaudière-Sud, QC"
+        },
+        {
+            "name": "V3A",
+            "detail": "Langley City, BC"
+        },
+        {
+            "name": "B2S",
+            "detail": "Lantz, NS"
+        },
+        {
+            "name": "G7N",
+            "detail": "Laterrière, QC"
+        },
+        {
+            "name": "J0T",
+            "detail": "Laurentides-Nord, QC"
+        },
+        {
+            "name": "J0V",
+            "detail": "Laurentides-Sud, QC"
+        },
+        {
+            "name": "H7N",
+            "detail": "Laval-des-Rapides, QC"
+        },
+        {
+            "name": "H7R",
+            "detail": "Laval-sur-le-Lac, QC"
+        },
+        {
+            "name": "J5T",
+            "detail": "Lavaltrie, QC"
+        },
+        {
+            "name": "G0T",
+            "detail": "Le Fjord, QC"
+        },
+        {
+            "name": "N8H",
+            "detail": "Leamington, ON"
+        },
+        {
+            "name": "T9E",
+            "detail": "Leduc, AB"
+        },
+        {
+            "name": "E5J",
+            "detail": "Lepreau, NB"
+        },
+        {
+            "name": "K9V",
+            "detail": "Lindsay, ON"
+        },
+        {
+            "name": "N4W",
+            "detail": "Listowel, ON"
+        },
+        {
+            "name": "T9V",
+            "detail": "Lloydminster, AB"
+        },
+        {
+            "name": "S9V",
+            "detail": "Lloydminster, SK"
+        },
+        {
+            "name": "B2E",
+            "detail": "Loch Lomond, NS"
+        },
+        {
+            "name": "R1B",
+            "detail": "Lockport, MB"
+        },
+        {
+            "name": "N5V",
+            "detail": "London, ON"
+        },
+        {
+            "name": "B1C",
+            "detail": "Louisbourg, NS"
+        },
+        {
+            "name": "J5V",
+            "detail": "Louiseville, QC"
+        },
+        {
+            "name": "V0V",
+            "detail": "Lower Skeena, BC"
+        },
+        {
+            "name": "J1X",
+            "detail": "Magog, QC"
+        },
+        {
+            "name": "H1V",
+            "detail": "Maisonneuve, QC"
+        },
+        {
+            "name": "G0H",
+            "detail": "Manicouagan, QC"
+        },
+        {
+            "name": "P0P",
+            "detail": "Manitoulin, ON"
+        },
+        {
+            "name": "J9E",
+            "detail": "Maniwaki, QC"
+        },
+        {
+            "name": "K4M",
+            "detail": "Manotick, ON"
+        },
+        {
+            "name": "A1W",
+            "detail": "Manuels, LB"
+        },
+        {
+            "name": "L6A",
+            "detail": "Maple, ON"
+        },
+        {
+            "name": "J3M",
+            "detail": "Marieville, QC"
+        },
+        {
+            "name": "B1K",
+            "detail": "Marion Bridge, NS"
+        },
+        {
+            "name": "J8M",
+            "detail": "Masson-Angers, QC"
+        },
+        {
+            "name": "G4W",
+            "detail": "Matane, QC"
+        },
+        {
+            "name": "G0X",
+            "detail": "Mauricie, QC"
+        },
+        {
+            "name": "E6J",
+            "detail": "McAdam, NB"
+        },
+        {
+            "name": "S9X",
+            "detail": "Meadow Lake, SK"
+        },
+        {
+            "name": "N4L",
+            "detail": "Meaford, ON"
+        },
+        {
+            "name": "J6R",
+            "detail": "Mercier, QC"
+        },
+        {
+            "name": "V1K",
+            "detail": "Merritt, BC"
+        },
+        {
+            "name": "V9C",
+            "detail": "Metchosin, BC"
+        },
+        {
+            "name": "N0M",
+            "detail": "Middlesex, ON"
+        },
+        {
+            "name": "L4R",
+            "detail": "Midland, ON"
+        },
+        {
+            "name": "E6E",
+            "detail": "Millville, NB"
+        },
+        {
+            "name": "L9T",
+            "detail": "Milton, ON"
+        },
+        {
+            "name": "E4B",
+            "detail": "Minto, NB"
+        },
+        {
+            "name": "L4T",
+            "detail": "Mississauga, ON"
+        },
+        {
+            "name": "G5H",
+            "detail": "Mont-Joli, QC"
+        },
+        {
+            "name": "J9L",
+            "detail": "Mont-Laurier, QC"
+        },
+        {
+            "name": "J8E",
+            "detail": "Mont-Tremblant, QC"
+        },
+        {
+            "name": "C0A",
+            "detail": "Montague, PE"
+        },
+        {
+            "name": "G5V",
+            "detail": "Montmagny, QC"
+        },
+        {
+            "name": "J0J",
+            "detail": "Montérégie-Est, QC"
+        },
+        {
+            "name": "J0L",
+            "detail": "Montérégie-Nord, QC"
+        },
+        {
+            "name": "E5A",
+            "detail": "Moores Mills, NB"
+        },
+        {
+            "name": "R6M",
+            "detail": "Morden, MB"
+        },
+        {
+            "name": "T8R",
+            "detail": "Morinville, AB"
+        },
+        {
+            "name": "A1N",
+            "detail": "Mount Pearl, LB"
+        },
+        {
+            "name": "E6G",
+            "detail": "Nackawic, NB"
+        },
+        {
+            "name": "K7R",
+            "detail": "Napanee, ON"
+        },
+        {
+            "name": "E9G",
+            "detail": "Neguac, NB"
+        },
+        {
+            "name": "V1L",
+            "detail": "Nelson, BC"
+        },
+        {
+            "name": "K2G",
+            "detail": "Nepean, ON"
+        },
+        {
+            "name": "B2H",
+            "detail": "New Glasgow, NS"
+        },
+        {
+            "name": "B1H",
+            "detail": "New Waterford, NS"
+        },
+        {
+            "name": "J3T",
+            "detail": "Nicolet, QC"
+        },
+        {
+            "name": "E5T",
+            "detail": "Norton, NB"
+        },
+        {
+            "name": "J0M",
+            "detail": "Nunavik, QC"
+        },
+        {
+            "name": "T1S",
+            "detail": "Okotoks, AB"
+        },
+        {
+            "name": "H2Y",
+            "detail": "Old Montreal, QC"
+        },
+        {
+            "name": "T4H",
+            "detail": "Olds, AB"
+        },
+        {
+            "name": "L3V",
+            "detail": "Orillia, ON"
+        },
+        {
+            "name": "K1E",
+            "detail": "Orleans, ON"
+        },
+        {
+            "name": "E2V",
+            "detail": "Oromocto, NB"
+        },
+        {
+            "name": "K1G",
+            "detail": "Ottawa, ON"
+        },
+        {
+            "name": "J0W",
+            "detail": "Outaouais-Nord, QC"
+        },
+        {
+            "name": "J0X",
+            "detail": "Outaouais-Sud, QC"
+        },
+        {
+            "name": "X0A",
+            "detail": "Outer Nunavut, NU"
+        },
+        {
+            "name": "H2V",
+            "detail": "Outremont, QC"
+        },
+        {
+            "name": "N4K",
+            "detail": "Owen Sound, ON"
+        },
+        {
+            "name": "N0J",
+            "detail": "Oxford, ON"
+        },
+        {
+            "name": "E8R",
+            "detail": "Paquetville, NB"
+        },
+        {
+            "name": "A1L",
+            "detail": "Paradise, LB"
+        },
+        {
+            "name": "H3N",
+            "detail": "Parc-Extension, QC"
+        },
+        {
+            "name": "N3L",
+            "detail": "Paris, ON"
+        },
+        {
+            "name": "V9P",
+            "detail": "Parksville, BC"
+        },
+        {
+            "name": "P2A",
+            "detail": "Parry Sound, ON"
+        },
+        {
+            "name": "T8S",
+            "detail": "Peace River, AB"
+        },
+        {
+            "name": "K8B",
+            "detail": "Pembroke, ON"
+        },
+        {
+            "name": "L9M",
+            "detail": "Penetanguishene, ON"
+        },
+        {
+            "name": "E5H",
+            "detail": "Pennfield, NB"
+        },
+        {
+            "name": "V2A",
+            "detail": "Penticton, BC"
+        },
+        {
+            "name": "K7H",
+            "detail": "Perth, ON"
+        },
+        {
+            "name": "E7H",
+            "detail": "Perth-Andover, NB"
+        },
+        {
+            "name": "K8H",
+            "detail": "Petawawa, ON"
+        },
+        {
+            "name": "K9K",
+            "detail": "Peterborough, ON"
+        },
+        {
+            "name": "E8J",
+            "detail": "Petit-Rocher, NB"
+        },
+        {
+            "name": "E4Z",
+            "detail": "Petitcodiac, NB"
+        },
+        {
+            "name": "H3J",
+            "detail": "Petite-Bourgogne, QC"
+        },
+        {
+            "name": "H8Z",
+            "detail": "Pierrefonds, QC"
+        },
+        {
+            "name": "G6C",
+            "detail": "Pintendre, QC"
+        },
+        {
+            "name": "V3Y",
+            "detail": "Pitt Meadows, BC"
+        },
+        {
+            "name": "H5A",
+            "detail": "Place Bonaventure, QC"
+        },
+        {
+            "name": "H5B",
+            "detail": "Place Desjardins, QC"
+        },
+        {
+            "name": "E7G",
+            "detail": "Plaster Rock, NB"
+        },
+        {
+            "name": "G6L",
+            "detail": "Plessisville, QC"
+        },
+        {
+            "name": "H9R",
+            "detail": "Pointe-Claire, QC"
+        },
+        {
+            "name": "T4J",
+            "detail": "Ponoka, AB"
+        },
+        {
+            "name": "G3H",
+            "detail": "Pont-Rouge, QC"
+        },
+        {
+            "name": "H7G",
+            "detail": "Pont-Viau, QC"
+        },
+        {
+            "name": "V9Y",
+            "detail": "Port Alberni, BC"
+        },
+        {
+            "name": "L3K",
+            "detail": "Port Colborne, ON"
+        },
+        {
+            "name": "B9A",
+            "detail": "Port Hawkesbury, NS"
+        },
+        {
+            "name": "L1A",
+            "detail": "Port Hope, ON"
+        },
+        {
+            "name": "V3H",
+            "detail": "Port Moody, BC"
+        },
+        {
+            "name": "B1B",
+            "detail": "Port Morien, NS"
+        },
+        {
+            "name": "L9L",
+            "detail": "Port Perry, ON"
+        },
+        {
+            "name": "N5L",
+            "detail": "Port Stanley, ON"
+        },
+        {
+            "name": "G5B",
+            "detail": "Port-Cartier, QC"
+        },
+        {
+            "name": "R1N",
+            "detail": "Portage la Prairie, MB"
+        },
+        {
+            "name": "B3E",
+            "detail": "Porters Lake, NS"
+        },
+        {
+            "name": "V8A",
+            "detail": "Powell River, BC"
+        },
+        {
+            "name": "C0B",
+            "detail": "Prince County, PE"
+        },
+        {
+            "name": "V8J",
+            "detail": "Prince Rupert, BC"
+        },
+        {
+            "name": "V9K",
+            "detail": "Qualicum Beach, BC"
+        },
+        {
+            "name": "B0T",
+            "detail": "Queens County, NS"
+        },
+        {
+            "name": "V2J",
+            "detail": "Quesnel, BC"
+        },
+        {
+            "name": "E2G",
+            "detail": "Quispamsis, NB"
+        },
+        {
+            "name": "E9E",
+            "detail": "Red Bank, NB"
+        },
+        {
+            "name": "T4E",
+            "detail": "Red Deer County, AB"
+        },
+        {
+            "name": "T3Z",
+            "detail": "Redwood Meadows, AB"
+        },
+        {
+            "name": "K7V",
+            "detail": "Renfrew, ON"
+        },
+        {
+            "name": "B1E",
+            "detail": "Reserve Mines, NS"
+        },
+        {
+            "name": "H0H",
+            "detail": "Reserved, QC"
+        },
+        {
+            "name": "E4W",
+            "detail": "Richibucto, NB"
+        },
+        {
+            "name": "V7B",
+            "detail": "Richmond, BC"
+        },
+        {
+            "name": "R0J",
+            "detail": "Riding Mountain, MB"
+        },
+        {
+            "name": "E1B",
+            "detail": "Riverview, NB"
+        },
+        {
+            "name": "G5R",
+            "detail": "Rivière-du-Loup, QC"
+        },
+        {
+            "name": "G8H",
+            "detail": "Roberval, QC"
+        },
+        {
+            "name": "J1N",
+            "detail": "Rock Forest, QC"
+        },
+        {
+            "name": "K4K",
+            "detail": "Rockland, ON"
+        },
+        {
+            "name": "E4Y",
+            "detail": "Rogersville, NB"
+        },
+        {
+            "name": "H8Y",
+            "detail": "Roxboro, QC"
+        },
+        {
+            "name": "K4R",
+            "detail": "Russell, ON"
+        },
+        {
+            "name": "J0N",
+            "detail": "Région d'Oka, QC"
+        },
+        {
+            "name": "G0M",
+            "detail": "Région de Beauce, QC"
+        },
+        {
+            "name": "E4L",
+            "detail": "Sackville, NB"
+        },
+        {
+            "name": "G7P",
+            "detail": "Saint-Ambroise, QC"
+        },
+        {
+            "name": "E4V",
+            "detail": "Saint-Antoine, NB"
+        },
+        {
+            "name": "E7C",
+            "detail": "Saint-Basile, NB"
+        },
+        {
+            "name": "J3V",
+            "detail": "Saint-Bruno, QC"
+        },
+        {
+            "name": "J5K",
+            "detail": "Saint-Colomban, QC"
+        },
+        {
+            "name": "J5A",
+            "detail": "Saint-Constant, QC"
+        },
+        {
+            "name": "H7B",
+            "detail": "Saint-Franþois, QC"
+        },
+        {
+            "name": "G8K",
+            "detail": "Saint-Félicien, QC"
+        },
+        {
+            "name": "H4C",
+            "detail": "Saint-Henri, QC"
+        },
+        {
+            "name": "J8A",
+            "detail": "Saint-Hippolyte, QC"
+        },
+        {
+            "name": "E8M",
+            "detail": "Saint-Isidore, NB"
+        },
+        {
+            "name": "E7B",
+            "detail": "Saint-Jacques, NB"
+        },
+        {
+            "name": "E7E",
+            "detail": "Saint-Leonard, NB"
+        },
+        {
+            "name": "J2W",
+            "detail": "Saint-Luc, QC"
+        },
+        {
+            "name": "G7A",
+            "detail": "Saint-Nicolas, QC"
+        },
+        {
+            "name": "H8R",
+            "detail": "Saint-Pierre, QC"
+        },
+        {
+            "name": "G8J",
+            "detail": "Saint-Prime, QC"
+        },
+        {
+            "name": "E8A",
+            "detail": "Saint-Quentin, NB"
+        },
+        {
+            "name": "G3L",
+            "detail": "Saint-Raymond, QC"
+        },
+        {
+            "name": "J5J",
+            "detail": "Saint-Sophie, QC"
+        },
+        {
+            "name": "G3E",
+            "detail": "Saint-Émile, QC"
+        },
+        {
+            "name": "J8B",
+            "detail": "Sainte-Adèle, QC"
+        },
+        {
+            "name": "H7X",
+            "detail": "Sainte-Dorothée, QC"
+        },
+        {
+            "name": "H9H",
+            "detail": "Sainte-Geneviève, QC"
+        },
+        {
+            "name": "J3E",
+            "detail": "Sainte-Julie, QC"
+        },
+        {
+            "name": "G6E",
+            "detail": "Sainte-Marie, QC"
+        },
+        {
+            "name": "H7L",
+            "detail": "Sainte-Rose, QC"
+        },
+        {
+            "name": "E4J",
+            "detail": "Salisbury, NB"
+        },
+        {
+            "name": "V1E",
+            "detail": "Salmon Arm, BC"
+        },
+        {
+            "name": "V8K",
+            "detail": "Saltspring Island, BC"
+        },
+        {
+            "name": "M1B",
+            "detail": "Scarborough, ON"
+        },
+        {
+            "name": "R1A",
+            "detail": "Selkirk, MB"
+        },
+        {
+            "name": "H9K",
+            "detail": "Senneville, QC"
+        },
+        {
+            "name": "E4P",
+            "detail": "Shediac, NB"
+        },
+        {
+            "name": "E8S",
+            "detail": "Shippagan, NB"
+        },
+        {
+            "name": "V8L",
+            "detail": "Sidney, BC"
+        },
+        {
+            "name": "N3Y",
+            "detail": "Simcoe, ON"
+        },
+        {
+            "name": "V0X",
+            "detail": "Similkameen, BC"
+        },
+        {
+            "name": "P8T",
+            "detail": "Sioux Lookout, ON"
+        },
+        {
+            "name": "E4G",
+            "detail": "Smiths Creek, NB"
+        },
+        {
+            "name": "K7A",
+            "detail": "Smiths Falls, ON"
+        },
+        {
+            "name": "V8B",
+            "detail": "Squamish, BC"
+        },
+        {
+            "name": "E4X",
+            "detail": "St-Louis-de-Kent, NB"
+        },
+        {
+            "name": "R5A",
+            "detail": "St. Adolphe, MB"
+        },
+        {
+            "name": "T8N",
+            "detail": "St. Albert, AB"
+        },
+        {
+            "name": "E5B",
+            "detail": "St. Andrews, NB"
+        },
+        {
+            "name": "E5C",
+            "detail": "St. George, NB"
+        },
+        {
+            "name": "E5R",
+            "detail": "St. Martins, NB"
+        },
+        {
+            "name": "N4X",
+            "detail": "St. Mary's, ON"
+        },
+        {
+            "name": "E3L",
+            "detail": "St. Stephen, NB"
+        },
+        {
+            "name": "E6B",
+            "detail": "Stanley, NB"
+        },
+        {
+            "name": "R5H",
+            "detail": "Ste. Anne, MB"
+        },
+        {
+            "name": "R5G",
+            "detail": "Steinbach, MB"
+        },
+        {
+            "name": "A2N",
+            "detail": "Stephenville, LB"
+        },
+        {
+            "name": "K2S",
+            "detail": "Stittsville, ON"
+        },
+        {
+            "name": "T7Z",
+            "detail": "Stony Plain, AB"
+        },
+        {
+            "name": "L4A",
+            "detail": "Stouffville, ON"
+        },
+        {
+            "name": "C1B",
+            "detail": "Stratford, PE"
+        },
+        {
+            "name": "T1P",
+            "detail": "Strathmore, AB"
+        },
+        {
+            "name": "N7G",
+            "detail": "Strathroy, ON"
+        },
+        {
+            "name": "P2B",
+            "detail": "Sturgeon Falls, ON"
+        },
+        {
+            "name": "C1N",
+            "detail": "Summerside, PE"
+        },
+        {
+            "name": "E4E",
+            "detail": "Sussex, NB"
+        },
+        {
+            "name": "S9H",
+            "detail": "Swift Current, SK"
+        },
+        {
+            "name": "T4S",
+            "detail": "Sylvan Lake, AB"
+        },
+        {
+            "name": "T1G",
+            "detail": "Taber, AB"
+        },
+        {
+            "name": "B3Z",
+            "detail": "Tantallon, NS"
+        },
+        {
+            "name": "N8N",
+            "detail": "Tecumseh Outskirts, ON"
+        },
+        {
+            "name": "N8V",
+            "detail": "Tecumseh, ON"
+        },
+        {
+            "name": "V8G",
+            "detail": "Terrace, BC"
+        },
+        {
+            "name": "R9A",
+            "detail": "The Pas, MB"
+        },
+        {
+            "name": "G6G",
+            "detail": "Thetford Mines, QC"
+        },
+        {
+            "name": "R8N",
+            "detail": "Thompson, MB"
+        },
+        {
+            "name": "N4G",
+            "detail": "Tillsonburg, ON"
+        },
+        {
+            "name": "A1K",
+            "detail": "Torbay, LB"
+        },
+        {
+            "name": "H4Z",
+            "detail": "Tour de la Bourse, QC"
+        },
+        {
+            "name": "E1X",
+            "detail": "Tracadie-Sheila, NB"
+        },
+        {
+            "name": "V1R",
+            "detail": "Trail, BC"
+        },
+        {
+            "name": "K8V",
+            "detail": "Trenton, ON"
+        },
+        {
+            "name": "B2N",
+            "detail": "Truro, NS"
+        },
+        {
+            "name": "L9P",
+            "detail": "Uxbridge, ON"
+        },
+        {
+            "name": "J9P",
+            "detail": "Val-d'Or, QC"
+        },
+        {
+            "name": "J8N",
+            "detail": "Val-des-Monts, QC"
+        },
+        {
+            "name": "J7X",
+            "detail": "Valleyfield, QC"
+        },
+        {
+            "name": "V5K",
+            "detail": "Vancouver, BC"
+        },
+        {
+            "name": "J3X",
+            "detail": "Varennes, QC"
+        },
+        {
+            "name": "T9C",
+            "detail": "Vegreville, AB"
+        },
+        {
+            "name": "T9X",
+            "detail": "Vermilion, AB"
+        },
+        {
+            "name": "H4E",
+            "detail": "Ville Émard, QC"
+        },
+        {
+            "name": "J9V",
+            "detail": "Ville-Marie, QC"
+        },
+        {
+            "name": "H7M",
+            "detail": "Vimont, QC"
+        },
+        {
+            "name": "T9W",
+            "detail": "Wainwright, AB"
+        },
+        {
+            "name": "N8A",
+            "detail": "Wallaceburg, ON"
+        },
+        {
+            "name": "L9Z",
+            "detail": "Wasaga Beach, ON"
+        },
+        {
+            "name": "B2R",
+            "detail": "Waverley, NS"
+        },
+        {
+            "name": "N0B",
+            "detail": "Wellington, ON"
+        },
+        {
+            "name": "T9A",
+            "detail": "Wetaskiwin, AB"
+        },
+        {
+            "name": "S4H",
+            "detail": "Weyburn, SK"
+        },
+        {
+            "name": "V4B",
+            "detail": "White Rock, BC"
+        },
+        {
+            "name": "T7S",
+            "detail": "Whitecourt, AB"
+        },
+        {
+            "name": "Y1A",
+            "detail": "Whitehorse, Yukon"
+        },
+        {
+            "name": "V2G",
+            "detail": "Williams Lake, BC"
+        },
+        {
+            "name": "A2B",
+            "detail": "Windsor, LB"
+        },
+        {
+            "name": "N8P",
+            "detail": "Windsor, ON"
+        },
+        {
+            "name": "J1S",
+            "detail": "Windsor, QC"
+        },
+        {
+            "name": "V4V",
+            "detail": "Winfield, BC"
+        },
+        {
+            "name": "R6W",
+            "detail": "Winkler, MB"
+        },
+        {
+            "name": "R2C",
+            "detail": "Winnipeg, MB"
+        },
+        {
+            "name": "B4P",
+            "detail": "Wolfville, NS"
+        },
+        {
+            "name": "E7M",
+            "detail": "Woodstock, NB"
+        },
+        {
+            "name": "B5A",
+            "detail": "Yarmouth, NS"
+        },
+        {
+            "name": "X1A",
+            "detail": "Yellowknife, NT"
+        },
+        {
+            "name": "M6C",
+            "detail": "York, ON"
+        },
+        {
+            "name": "S3N",
+            "detail": "Yorkton, SK"
+        },
+        {
+            "name": "E4C",
+            "detail": "Youngs Cove, NB"
+        },
+        {
+            "name": "H7Y",
+            "detail": "Îles-Laval, QC"
+        }
+    ]
+}
